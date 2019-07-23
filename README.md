@@ -1,2 +1,2 @@
 # algo
-Finance in Python
+Learning finance in Python
